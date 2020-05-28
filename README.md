@@ -1,42 +1,44 @@
-# Normals
+# Texture Correction
 
-## angle affection = 20
+## Normals
+
+### angle affection = 20
 
 <div class="juxtapose">
     <img src="examples/norm/20/old.png"/>
     <img src="examples/norm/20/new.png"/>
 </div>
 
-## angle affection = 50
+### angle affection = 50
 
 <div class="juxtapose">
     <img src="examples/norm/50/old.png"/>
     <img src="examples/norm/50/new.png"/>
 </div>
 
-# Equalization
+## Equalization
 
-## angle affection = 20
+### angle affection = 20
 
-### no equalization
+#### no equalization
 ![no eq 20](/examples/maxface/20/no.png)
 
-### diff
+#### diff
 <div class="juxtapose">
     <img src="examples/maxface/20/old.png"/>
     <img src="examples/maxface/20/new.png"/>
 </div>
 
-## angle affection = 50
+### angle affection = 50
 
-### no equalization
+#### no equalization
 ![no eq 50](/examples/maxface/50/no.png)
 
-### diff
+#### diff
 <div class="juxtapose">
     <img src="examples/maxface/20/old.png"/>
     <img src="examples/maxface/20/new.png"/>
 </div>
 
-## artifact
-![artifact][/examples/artifact.png]
+### artifact
+![artifact](/examples/artifact.jpg)
