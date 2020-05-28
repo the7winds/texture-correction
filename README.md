@@ -25,8 +25,8 @@
 
 #### diff
 <div class="juxtapose">
-    <img src="examples/maxface/20/old.png"/>
-    <img src="examples/maxface/20/new.png"/>
+    <img src="examples/maxface/20/old.png" data-label='current dev equalization'/>
+    <img src="examples/maxface/20/new.png" data-label='new equalization'/>
 </div>
 
 ### angle affection = 50
@@ -36,9 +36,9 @@
 
 #### diff
 <div class="juxtapose">
-    <img src="examples/maxface/20/old.png"/>
-    <img src="examples/maxface/20/new.png"/>
+    <img src="examples/maxface/20/old.png" data-label='current dev equalization'/>
+    <img src="examples/maxface/20/new.png" data-label='new equalization'/>
 </div>
 
-### artifact
+### color artifact (green shadow)
 ![artifact](/examples/artifact.jpg)
