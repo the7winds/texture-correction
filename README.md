@@ -1,8 +1,17 @@
 # Normals
 
+## angle affection = 20
+
 <div class="juxtapose">
-    <img src="examples/norm/old.png"/>
-    <img src="examples/norm/new.png"/>
+    <img src="examples/norm/20/old.png"/>
+    <img src="examples/norm/20/new.png"/>
+</div>
+
+## angle affection = 50
+
+<div class="juxtapose">
+    <img src="examples/norm/50/old.png"/>
+    <img src="examples/norm/50/new.png"/>
 </div>
 
 # Equalization
