@@ -16,6 +16,7 @@
     <img src="examples/norm/50/new.png" data-label='vertex normals interpolated'/>
 </div>
 
+
 ## Equalization
 
 ### angle affection = 20
