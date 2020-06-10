@@ -37,8 +37,8 @@
 
 #### diff
 <div class="juxtapose">
-    <img src="examples/maxface/20/old.png" data-label='current dev equalization'/>
-    <img src="examples/maxface/20/new.png" data-label='new equalization'/>
+    <img src="examples/maxface/50/old.png" data-label='current dev equalization'/>
+    <img src="examples/maxface/50/new.png" data-label='new equalization'/>
 </div>
 
 ### color artifact (green shadow)
